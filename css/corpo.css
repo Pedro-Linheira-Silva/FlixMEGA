@@ -1,0 +1,33 @@
+main {
+    background-size: cover;
+    background-image: url("/imagem/fundo.definitivo.jpg");
+    height: 821px;
+
+}
+h2, h3{
+    margin: 0px;
+    padding: 0px;
+}
+.titulo {
+    width: 50vh;
+    font-size: 3vh;
+    padding-top: 10vh;
+    margin-left: 30vh;
+    color: white;
+}
+img {
+    width: 400px;
+    padding: 1vh;
+    height: 220px;
+    cursor: pointer;
+}
+.top {
+    background-color: #c52823;
+    margin: 80px;
+    margin-left: 130px;
+    border-radius: 10px;
+}
+.movies {
+    border: 1px solid black;
+    border-radius: 10px;
+}

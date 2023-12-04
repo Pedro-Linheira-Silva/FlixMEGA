@@ -1,0 +1,57 @@
+nav {
+    display: flex;
+    background-color: #cf3839;
+}
+.logo {
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+}
+.flixmega {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    height: 120px;
+    justify-content: center;
+    color: white;
+}
+.lista {
+    display: flex;
+    align-items: center;
+    width: 100vh;
+    justify-content:space-between;
+    list-style-type: none;
+}
+li {
+    background-color: #c52823;
+    border-radius: 15px;
+    font-size: 2vh;
+    width: 150px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.icones {
+    display: flex;
+    align-items: center;
+    width: 4vh;
+    cursor: pointer;
+}
+a {
+    color: white;
+}
+.pesquisar {
+    display: flex;
+    align-items: center;
+}
+.butão {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.campos {
+    border-radius: 10px;
+    width: 25vh;
+}
